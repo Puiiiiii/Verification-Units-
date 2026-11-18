@@ -18,3 +18,5 @@ Log Parsing
 Rule Engine
 AI Analysis
 Historical Database
+
+See [ARCHITECTURE.md](ARCHITECTURE.md) for the proposed system design, data flow, and implementation considerations. The architecture is a draft; the repository does not yet contain the described application components.
